@@ -12,6 +12,10 @@ A personal device-revival and troubleshooting project focused on the BlackBerry 
 - Capture clear photographs before and after the work.
 - Explain what worked, what did not, and any remaining limitations.
 
+## Report template
+
+- [BlackBerry Passport revival report template](docs/revival-report-template.md)
+
 ## Planned documentation
 
 - [ ] Device overview and model identification
