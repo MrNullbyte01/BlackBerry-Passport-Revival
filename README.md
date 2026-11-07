@@ -45,3 +45,7 @@ Do not publish personal data, account credentials, IMEI numbers, or other sensit
 
 ---
 *Personal device-revival learning project by MrNullbyte01.*
+
+## Existing software archive
+
+The original portfolio contains APK and BAR packages associated with this device project. Their filenames and review requirements are documented in the [Software Archive Inventory](docs/software-inventory.md). They have not been mirrored into this repository because redistribution rights have not yet been verified.
